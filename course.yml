@@ -1,0 +1,344 @@
+name: "Communication For Success: Speaking"
+code: HSS221
+term: Jan-2024
+about_path: src/lessons/about.md
+image_path: src/podium.png
+units:
+  - name: Overview
+    activities:
+      - name: Introduction
+        path: src/lessons/about.md
+        workload: 15
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-09"
+        kind: GENERAL    
+      - name: Course Topics
+        path: src/lessons/overview/course-topics.md
+        workload: 15
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-09"
+        kind: GENERAL
+      - name: Course Assessments
+        path: src/lessons/overview/course-assessments.md
+        workload: 15
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-09"
+        kind: GENERAL
+      - name: Course Expectations
+        path: src/lessons/overview/course-expectations.md
+        workload: 15
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-09"
+        kind: GENERAL
+      - name: Live Classes
+        path: src/lessons/overview/live-classes.md
+        workload: 15
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-09"
+        kind: GENERAL
+  - name: Introduction To Speaking
+    activities:
+      - name: Introduction
+        path: src/lessons/introduction-to-speaking.md
+        workload: 15
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-09"
+        kind: GENERAL
+      - name: 1.1 Motivation
+        path: src/lessons/introduction-to-speaking/motivation.md
+        workload: 30
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-09"
+        kind: GENERAL
+      - name: 1.2 A Refresher On The Communication Process
+        path: src/lessons/introduction-to-speaking/a-refresher-on-the-communication-process.md
+        workload: 120
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-09"
+        kind: GENERAL
+      - name: 1.3 Peer Reviewed Resource
+        path: src/lessons/introduction-to-speaking/peer-review-communication.md
+        workload: 60
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-14"
+        kind: PUBLICATION_REVIEWED
+      - name: 1.4 Effective Communication
+        path: src/lessons/introduction-to-speaking/effective-communication-what-is-it-and-how-do.md
+        workload: 90
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-14"
+        kind: GENERAL
+      - name: '1.5 How to Speak Well'
+        path: src/lessons/introduction-to-speaking/how-to-speak-well-verbal-and-non-verbal-commun.md
+        workload: 180
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-14"
+        kind: GENERAL
+      - name: 1.6 Preparing Your Elevator Pitch
+        path: src/lessons/introduction-to-speaking/preparing-your-elevator-pitch.md
+        workload: 90
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-14"
+        kind: GENERAL
+      - name: 1.7 Technical Skills to Record Your Assignment
+        path: src/lessons/introduction-to-speaking/technical-skills-to-record-your-assignment.md
+        workload: 90
+        type: lesson
+        publish: "2024-01-08"
+        due: "2024-01-14"
+        kind: GENERAL
+      - name: Live Class 1 Reflection
+        path: src/lessons/introduction-to-speaking/class1.md
+        workload: 90
+        type: assignment
+        grade_weight: 2
+        publish: "2024-01-08"
+        due: "2024-01-14"
+        kind: ASSIGNMENT
+      - name: Assignment 1 - Elevator Pitch
+        path: src/lessons/introduction-to-speaking/assignment-1-my-elevator-pitch.md
+        workload: 420
+        type: assignment
+        grade_weight: 13.34
+        publish: "2024-01-08"
+        due: "2024-01-21"
+        kind: ASSIGNMENT
+  - name: Honing Your Listening Skills
+    activities:
+      - name: Introduction
+        path: src/lessons/honing-your-listening-skills.md
+        workload: 15
+        type: lesson
+        publish: "2024-01-21"
+        due: "2024-01-23"
+        kind: GENERAL
+      - name: 2.1 Motivation
+        path: src/lessons/honing-your-listening-skills/motivation.md
+        workload: 60
+        type: lesson
+        publish: "2024-01-21"
+        due: "2024-01-23"
+        kind: GENERAL
+      - name: 2.2 How To Listen Well
+        path: src/lessons/honing-your-listening-skills/how-to-listen-well.md
+        workload: 180
+        type: lesson
+        publish: "2024-01-21"
+        due: "2024-01-28"
+        kind: GENERAL
+      - name: 2.3 Peer Reviewed Resource
+        path: src/lessons/honing-your-listening-skills/peer-review-listening.md
+        workload: 30
+        type: lesson
+        publish: "2024-01-21"
+        due: "2024-01-28"
+        kind: PUBLICATION_REVIEWED
+      - name: 2.4 Barriers To Effective Listening
+        path: src/lessons/honing-your-listening-skills/barriers-to-effective-listening.md
+        workload: 180
+        type: lesson
+        publish: "2024-01-21"
+        due: "2024-01-28"
+        kind: GENERAL
+      - name: 2.5 Practicing Listening
+        path: src/lessons/honing-your-listening-skills/practicing-listening.md
+        workload: 180
+        type: lesson
+        publish: "2024-01-21"
+        due: "2024-01-28"
+        kind: GENERAL
+      - name: 2.6 Responding as a Listener
+        path: src/lessons/honing-your-listening-skills/responding-as-a-listener.md
+        workload: 180
+        type: lesson
+        publish: "2024-01-21"
+        due: "2024-01-28"
+        kind: GENERAL
+      - name: Live Class 2 Reflection
+        path: src/lessons/honing-your-listening-skills/class2.md
+        workload: 90
+        type: assignment
+        grade_weight: 2
+        publish: "2024-01-21"
+        due: "2024-01-28"
+        kind: ASSIGNMENT
+      - name: Assignment 2 - Listening in a Conversation
+        path: src/lessons/honing-your-listening-skills/assignment-2-listening-in-a-conversation.md
+        workload: 420
+        type: assignment
+        grade_weight: 13.33
+        publish: "2024-01-21"
+        due: "2024-02-04"
+        kind: ASSIGNMENT
+  - name: Impromptu Speaking
+    activities:
+      - name: Introduction
+        path: src/lessons/impromptu-speaking.md
+        workload: 15
+        type: lesson
+        publish: "2024-02-04"
+        due: "2024-02-06"
+        kind: GENERAL        
+      - name: 3.1 Motivation
+        path: src/lessons/impromptu-speaking/motivation.md
+        workload: 30
+        type: lesson
+        publish: "2024-02-04"
+        due: "2024-02-06"
+        kind: GENERAL
+      - name: 3.2 Responding To And Asking Questions
+        path: src/lessons/impromptu-speaking/responding-to-and-asking-questions.md
+        workload: 60
+        type: lesson
+        publish: "2024-02-04"
+        due: "2024-02-06"
+        kind: GENERAL
+      - name: 3.3 Impromptu Speaking In Interviews
+        path: src/lessons/impromptu-speaking/impromptu-speaking-in-interviews.md
+        workload: 90
+        type: lesson
+        publish: "2024-02-04"
+        due: "2024-02-11"
+        kind: GENERAL
+      - name: 3.4 Acing Your Interview
+        path: src/lessons/impromptu-speaking/acing-your-interview.md
+        workload: 120
+        type: lesson
+        publish: "2024-02-04"
+        due: "2024-02-11"
+        kind: GENERAL
+      - name: Live Class 3 Reflection
+        path: src/lessons/impromptu-speaking/class3.md
+        workload: 90
+        type: assignment
+        grade_weight: 2
+        publish: "2024-02-04"
+        due: "2024-02-11"
+        kind: ASSIGNMENT
+      - name: Assignment 3 - Mock Interview
+        path: src/lessons/impromptu-speaking/assignment-3-mock-interviews.md
+        workload: 420
+        type: assignment
+        grade_weight: 13.33
+        publish: "2024-02-04"
+        due: "2024-02-18"
+        kind: ASSIGNMENT
+  - name: Planned Speaking
+    activities:
+      - name: Introduction
+        path: src/lessons/planned-speaking.md
+        workload: 15
+        type: lesson
+        publish: "2024-02-18"
+        due: "2024-02-20"
+        kind: GENERAL
+      - name: 4.1 Motivation
+        path: src/lessons/planned-speaking/motivation.md
+        workload: 30
+        type: lesson
+        publish: "2024-02-18"
+        due: "2024-02-20"
+        kind: GENERAL
+      - name: 4.2 Introduction To Public Speaking
+        path: src/lessons/planned-speaking/introduction-to-public-speaking.md
+        workload: 60
+        type: lesson
+        publish: "2024-02-18"
+        due: "2024-02-25"
+        kind: GENERAL
+      - name: 4.3 Skills For An Effective Speech
+        path: src/lessons/planned-speaking/skills-for-an-effective-speech.md
+        workload: 120
+        type: lesson
+        publish: "2024-02-18"
+        due: "2024-02-25"
+        kind: GENERAL
+      - name: 4.4 Peer Reviewed Resource
+        path: src/lessons/planned-speaking/peer-review-speaking.md
+        workload: 30
+        type: lesson
+        publish: "2024-02-18"
+        due: "2024-02-25"
+        kind: PUBLICATION_REVIEWED
+      - name: 4.5 Preparing Your Speech
+        path: src/lessons/planned-speaking/preparing-your-speech.md
+        workload: 120
+        type: lesson
+        publish: "2024-02-18"
+        due: "2024-02-25"
+        kind: GENERAL
+      - name: 4.6 Organizing and Outlining Your Speech
+        path: src/lessons/planned-speaking/organizing-and-outlining-your-speech.md
+        workload: 120
+        type: lesson
+        publish: "2024-02-18"
+        due: "2024-02-25"
+        kind: GENERAL
+      - name: 4.7 Presenting Your Speech
+        path: src/lessons/planned-speaking/presenting-your-speech.md
+        workload: 60
+        type: lesson
+        publish: "2024-02-18"
+        due: "2024-02-25"
+        kind: GENERAL
+      - name: Live Class 4 Reflection
+        path: src/lessons/planned-speaking/class4.md
+        workload: 90
+        type: assignment
+        grade_weight: 2
+        publish: "2024-02-18"
+        due: "2024-02-25"
+        kind: ASSIGNMENT
+      - name: Midterm Project
+        path: src/lessons/planned-speaking/assignment-4-informative-presentation.md
+        workload: 480
+        type: assignment
+        grade_weight: 20
+        publish: "2024-02-18"
+        due: "2024-03-03"
+        kind: ASSIGNMENT
+  - name: Speaking Review and Final Assessment
+    activities:
+      - name: Introduction
+        path: src/lessons/speaking-review-final-assessment.md
+        workload: 15
+        type: lesson
+        publish: "2024-03-03"
+        due: "2024-03-05"
+        kind: GENERAL
+      - name: Live Class 5 Reflection
+        path: src/lessons/class5.md
+        workload: 90
+        type: assignment
+        grade_weight: 2
+        publish: "2024-03-03"
+        due: "2024-03-10"
+        kind: ASSIGNMENT
+      - name: Final Assessment 1 - Oral Reflection
+        path: src/lessons/final-reflection.md
+        workload: 480
+        type: assignment
+        grade_weight: 15
+        publish: "2024-03-03"
+        due: "2024-03-17"
+        kind: ASSIGNMENT_SUMMATIVE
+      - name: Final Assessment 2 - Action Plan
+        path: src/lessons/final-project.md
+        workload: 480
+        type: assignment
+        grade_weight: 15
+        publish: "2024-03-03"
+        due: "2024-03-17"
+        kind: ASSIGNMENT_SUMMATIVE
